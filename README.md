@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lumosmaxima
 - 👀 I’m interested in math, computer science
-- 🌱 I’m currently learning system programming
+- 🌱 I’m currently learning CV
 - 📫 How to reach me ...
